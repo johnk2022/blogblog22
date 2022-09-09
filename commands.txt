@@ -25,3 +25,8 @@ python3 manage.py createsuperuser
 ls ../.pip-modules/lib
 
 cp -r ..//.pip-modules/lib/python3.8/site-packages/allauth/templates/* ./templates
+
+
+
+bug
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
