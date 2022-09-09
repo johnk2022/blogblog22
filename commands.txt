@@ -3,6 +3,7 @@ pip3 install dj_database_url psycopg2
 pip3 install dj3-cloudinary-storage
 pip3 install django-summernote
 pip3 install django-allauth
+pip3 install django-crispy-forms
 
 pip3 freeze --local > requirements.txt
 django-admin startproject  codestar .
